@@ -1,0 +1,7 @@
+E:\YouTubeVideoDownloader.exe
+E:\YouTubeVideoDownloader.dll
+E:\YouTubeVideoDownloader.deps.json
+E:\YouTubeVideoDownloader.runtimeconfig.json
+E:\YouTubeVideoDownloader.pdb
+E:\AngleSharp.dll
+E:\YoutubeExplode.dll
